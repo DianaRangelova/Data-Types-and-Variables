@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\obj\Debug\net6.0\P01-Days-to-Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\obj\Debug\net6.0\P01-Days-to-Minutes.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\obj\Debug\net6.0\P01-Days-to-Minutes.AssemblyInfo.cs
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\obj\Debug\net6.0\P01-Days-to-Minutes.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\bin\Debug\net6.0\P01-Days-to-Minutes.exe
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\bin\Debug\net6.0\P01-Days-to-Minutes.deps.json
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\bin\Debug\net6.0\P01-Days-to-Minutes.runtimeconfig.json
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\bin\Debug\net6.0\P01-Days-to-Minutes.dll
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\bin\Debug\net6.0\P01-Days-to-Minutes.pdb
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\obj\Debug\net6.0\P01-Days-to-Minutes.dll
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\obj\Debug\net6.0\refint\P01-Days-to-Minutes.dll
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\obj\Debug\net6.0\P01-Days-to-Minutes.pdb
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\obj\Debug\net6.0\P01-Days-to-Minutes.genruntimeconfig.cache
+C:\Users\PC\source\repos\Data-Types-and-Variables\P01-Days-to-Minutes\obj\Debug\net6.0\ref\P01-Days-to-Minutes.dll

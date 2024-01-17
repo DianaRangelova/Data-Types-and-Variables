@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01-Days-to-Minutes", "P01-Days-to-Minutes\P01-Days-to-Minutes.csproj", "{CA5B3CED-3F02-4E97-BD4C-86901CAD4196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02-Calculate-Speed", "P02-Calculate-Speed\P02-Calculate-Speed.csproj", "{39075031-A4B8-4A12-BCE7-EC4EBD7BE725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03-Circle-Area-and-Perimeter", "P03-Circle-Area-and-Perimeter\P03-Circle-Area-and-Perimeter.csproj", "{9D9D4B3C-4F91-4300-85E9-62679FCF30C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04-Convert-Meters-to-Kilometers", "P04-Convert-Meters-to-Kilometers\P04-Convert-Meters-to-Kilometers.csproj", "{313DE343-244C-4407-9D6A-56F7A03D0BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05-Convert-Celsius-to-Fahrenheit", "P05-Convert-Celsius-to-Fahrenheit\P05-Convert-Celsius-to-Fahrenheit.csproj", "{6FCE6B6D-90B5-420D-8D85-99AFEFFE57B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06-Pets-Food", "P06-Pets-Food\P06-Pets-Food.csproj", "{31967D35-4B97-4526-9EBD-4A52B38D7D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07-Projects-Creation", "P07-Projects-Creation\P07-Projects-Creation.csproj", "{9300BDB9-21E4-4E83-9014-1CF4D034534F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA5B3CED-3F02-4E97-BD4C-86901CAD4196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5B3CED-3F02-4E97-BD4C-86901CAD4196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5B3CED-3F02-4E97-BD4C-86901CAD4196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5B3CED-3F02-4E97-BD4C-86901CAD4196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39075031-A4B8-4A12-BCE7-EC4EBD7BE725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39075031-A4B8-4A12-BCE7-EC4EBD7BE725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39075031-A4B8-4A12-BCE7-EC4EBD7BE725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39075031-A4B8-4A12-BCE7-EC4EBD7BE725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9D4B3C-4F91-4300-85E9-62679FCF30C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9D4B3C-4F91-4300-85E9-62679FCF30C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9D4B3C-4F91-4300-85E9-62679FCF30C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9D4B3C-4F91-4300-85E9-62679FCF30C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313DE343-244C-4407-9D6A-56F7A03D0BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313DE343-244C-4407-9D6A-56F7A03D0BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313DE343-244C-4407-9D6A-56F7A03D0BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313DE343-244C-4407-9D6A-56F7A03D0BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCE6B6D-90B5-420D-8D85-99AFEFFE57B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCE6B6D-90B5-420D-8D85-99AFEFFE57B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCE6B6D-90B5-420D-8D85-99AFEFFE57B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCE6B6D-90B5-420D-8D85-99AFEFFE57B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31967D35-4B97-4526-9EBD-4A52B38D7D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31967D35-4B97-4526-9EBD-4A52B38D7D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31967D35-4B97-4526-9EBD-4A52B38D7D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31967D35-4B97-4526-9EBD-4A52B38D7D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9300BDB9-21E4-4E83-9014-1CF4D034534F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9300BDB9-21E4-4E83-9014-1CF4D034534F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9300BDB9-21E4-4E83-9014-1CF4D034534F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9300BDB9-21E4-4E83-9014-1CF4D034534F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AEB21D3-8D2F-472B-A959-E64E3F7628C6}
+	EndGlobalSection
+EndGlobal

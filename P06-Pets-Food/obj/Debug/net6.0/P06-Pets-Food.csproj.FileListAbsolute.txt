@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\bin\Debug\net6.0\P06-Pets-Food.exe
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\bin\Debug\net6.0\P06-Pets-Food.deps.json
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\bin\Debug\net6.0\P06-Pets-Food.runtimeconfig.json
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\bin\Debug\net6.0\P06-Pets-Food.dll
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\bin\Debug\net6.0\P06-Pets-Food.pdb
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\obj\Debug\net6.0\P06-Pets-Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\obj\Debug\net6.0\P06-Pets-Food.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\obj\Debug\net6.0\P06-Pets-Food.AssemblyInfo.cs
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\obj\Debug\net6.0\P06-Pets-Food.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\obj\Debug\net6.0\P06-Pets-Food.dll
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\obj\Debug\net6.0\refint\P06-Pets-Food.dll
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\obj\Debug\net6.0\P06-Pets-Food.pdb
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\obj\Debug\net6.0\P06-Pets-Food.genruntimeconfig.cache
+C:\Users\PC\source\repos\Data-Types-and-Variables\P06-Pets-Food\obj\Debug\net6.0\ref\P06-Pets-Food.dll

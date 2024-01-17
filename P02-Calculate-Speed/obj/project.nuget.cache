@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0COzRyVNsfMdfMEq/dZ3RQ8Kw8LNg43s13p0mNJsAtLV5f1kjYJC4xhBBf+0FXcKecuFaKKUr+dkKok90CprtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Data-Types-and-Variables\\P02-Calculate-Speed\\P02-Calculate-Speed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\bin\Debug\net6.0\P03-Circle-Area-and-Perimeter.exe
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\bin\Debug\net6.0\P03-Circle-Area-and-Perimeter.deps.json
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\bin\Debug\net6.0\P03-Circle-Area-and-Perimeter.runtimeconfig.json
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\bin\Debug\net6.0\P03-Circle-Area-and-Perimeter.dll
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\bin\Debug\net6.0\P03-Circle-Area-and-Perimeter.pdb
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\obj\Debug\net6.0\P03-Circle-Area-and-Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\obj\Debug\net6.0\P03-Circle-Area-and-Perimeter.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\obj\Debug\net6.0\P03-Circle-Area-and-Perimeter.AssemblyInfo.cs
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\obj\Debug\net6.0\P03-Circle-Area-and-Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\obj\Debug\net6.0\P03-Circle-Area-and-Perimeter.dll
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\obj\Debug\net6.0\refint\P03-Circle-Area-and-Perimeter.dll
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\obj\Debug\net6.0\P03-Circle-Area-and-Perimeter.pdb
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\obj\Debug\net6.0\P03-Circle-Area-and-Perimeter.genruntimeconfig.cache
+C:\Users\PC\source\repos\Data-Types-and-Variables\P03-Circle-Area-and-Perimeter\obj\Debug\net6.0\ref\P03-Circle-Area-and-Perimeter.dll
